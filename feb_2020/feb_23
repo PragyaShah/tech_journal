@@ -1,0 +1,28 @@
+Hey there!
+I am learning to type in sulime text.
+I am learning the editor as well.
+Maybe I'll learn Git too.
+Is that too much to do at a time?
+
+I was hoping to learn about Linux and its commaned line too.
+So much to do, with so little time.
+
+Today I have completed 6 months at my first job.
+Maybe I will add this new thing to my routine, try to learn a little bit each day and document it too.
+
+Here is what all I did today.
+	* Installed Sublime Text 3 in my Ubuntu OS
+	* Learned about the 'subl' command which can be used from the command line to 
+		- run sublime text editor (subl)
+		- open a file in the current directory with sublime (subl <filename>)
+		- create a new file in the current direrctory using sublime (subl <new_filename>)
+	* Created a new local git repo and commited today's journal
+	* Uploaded it to GitHub
+
+This is what I need to find tommorow
+	* How to put bullets in sublime 
+	* How to turn off the mouse pad (it's irritating as i keep touching the pad and dislocating my cursor :-| )
+	* How to do spell check in sublime.
+	* explore 'subl' to make it work with in Windows
+
+Hope to see ya tommorow. Tata!
