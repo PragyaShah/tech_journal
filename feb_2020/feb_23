@@ -16,13 +16,16 @@ Here is what all I did today.
 		- run sublime text editor (subl)
 		- open a file in the current directory with sublime (subl <filename>)
 		- create a new file in the current direrctory using sublime (subl <new_filename>)
-	* Created a new local git repo and commited today's journal
-	* Uploaded it to GitHub
+	* Created a new local git repo (git init)
+	* Commited today's journal (git add. | git commit) 
+	* Uploaded it to GitHub ()
 
 This is what I need to find tommorow
 	* How to put bullets in sublime 
 	* How to turn off the mouse pad (it's irritating as i keep touching the pad and dislocating my cursor :-| )
 	* How to do spell check in sublime.
 	* explore 'subl' to make it work with in Windows
+	* Explore other git commands to actually see what I am commiting
+	* Create a ReadMe file (with markups maybe)
 
 Hope to see ya tommorow. Tata!
